@@ -1,4 +1,3 @@
-
 while True:
     print("================================")
     print("         BMI CALCULATOR")
